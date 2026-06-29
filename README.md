@@ -11,7 +11,7 @@
 
 ## Descripción general del sistema
 
-Este proyecto corresponde a una actividad de la asignatura **Desarrollo Orientado a Objetos I**. Se trata de una aplicación desarrollada en **Java** que simula la gestión de distintos servicios turísticos ofrecidos en la zona del **Lago Llanquihue**.
+Este proyecto corresponde a la actividad Formativa de la Semana 6 de la asignatura **Desarrollo Orientado a Objetos I**. Se trata de una aplicación desarrollada en **Java** que simula la gestión de distintos servicios turísticos ofrecidos en la zona del **Lago Llanquihue**.
 
 El sistema utiliza una estructura basada en **herencia**, donde la clase `ServicioTuristico` actúa como clase base y es extendida por las clases `RutaGastronomica`, `PaseoLacustre` y `ExcursionCultural`, cada una incorporando atributos específicos de su tipo de servicio.
 
