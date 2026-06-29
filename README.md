@@ -23,9 +23,10 @@ La clase `GestorServicios` es la encargada de crear los distintos objetos y most
 
 📁 src/
 
-├── 📁 ui/                  # Clase principal con el método `main` (`Main.java`)
-
-├── 📁 data/                # Clase encargada de crear y mostrar los servicios (`GestorServicios.java`)
+├── 📁 ui/                  # Clase principal con el método Main
+    ├── 📄 Main.java
+├── 📁 data/                # Clase encargada de crear y mostrar los servicios 
+    ├── 📄 GestorServicios.java
 
 └── 📁 model/               # Clases del dominio del sistema
 
@@ -81,6 +82,6 @@ La clase `GestorServicios` es la encargada de crear los distintos objetos y most
 
 ## Repositorio GitHub
 
-https://github.com/Balmaseba/LlanquihueTourApp
+https://github.com/Balmaseba/Semana_6
 
 **Fecha de entrega:** 29/06/2026
